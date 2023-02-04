@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
-
 class Wallet:
  
     # init method or constructor
